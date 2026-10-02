@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="392" viewBox="0 0 1180 392" role="img" aria-label="Consig 360 — Seu universo de soluções em crédito consignado">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A7B76"/>
+      <stop offset="0.6" stop-color="#086662"/>
+      <stop offset="1" stop-color="#07524E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1180" height="392" fill="url(#bg)"/>
+  <g fill="none" stroke="#FFFFFF">
+    <circle cx="1040" cy="40" r="150" stroke-opacity="0.16"/>
+    <circle cx="1040" cy="40" r="220" stroke-opacity="0.10"/>
+    <circle cx="140" cy="380" r="130" stroke-opacity="0.14"/>
+    <circle cx="140" cy="380" r="200" stroke-opacity="0.08"/>
+  </g>
+  <text x="590" y="132" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="30" font-weight="700" fill="#FFFFFF">consig<tspan fill="#B8EEEB">360</tspan></text>
+  <text x="590" y="210" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="44" font-weight="700" fill="#FFFFFF">Seu universo de soluções</text>
+  <text x="590" y="262" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="44" font-weight="700" fill="#FFFFFF">em <tspan fill="#B8EEEB">crédito consignado</tspan>.</text>
+  <text x="590" y="310" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="18" font-weight="500" fill="#E6F6F5">Plataforma do correspondente · by Teddy</text>
+</svg>

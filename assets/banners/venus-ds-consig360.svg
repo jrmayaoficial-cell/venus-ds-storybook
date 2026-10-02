@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="392" viewBox="0 0 1180 392" role="img" aria-label="Venus.ds — Consig 360 by Teddy">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="60%">
+      <stop offset="0" stop-color="#0A7B76" stop-opacity="0.55"/>
+      <stop offset="0.55" stop-color="#086662" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#0B1414" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1414"/>
+      <stop offset="1" stop-color="#0E1C1B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1180" height="392" fill="url(#bg)"/>
+  <rect width="1180" height="392" fill="url(#glow)"/>
+  <g fill="none" stroke="#0A7B76">
+    <circle cx="590" cy="196" r="150" stroke-opacity="0.35"/>
+    <circle cx="590" cy="196" r="210" stroke-opacity="0.22"/>
+    <circle cx="590" cy="196" r="280" stroke-opacity="0.14"/>
+    <circle cx="590" cy="196" r="360" stroke-opacity="0.08"/>
+    <circle cx="110" cy="60" r="90" stroke-opacity="0.18"/>
+    <circle cx="1080" cy="340" r="120" stroke-opacity="0.18"/>
+  </g>
+  <circle cx="800" cy="72" r="5" fill="#30BFB9"/>
+  <circle cx="372" cy="318" r="4" fill="#30BFB9" fill-opacity="0.7"/>
+  <rect x="510" y="96" width="160" height="30" rx="15" fill="#0A7B76" fill-opacity="0.22" stroke="#0A7B76" stroke-opacity="0.6"/>
+  <text x="590" y="116" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2" fill="#6AD1CD">DESIGN SYSTEM</text>
+  <text x="590" y="214" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="84" font-weight="700" fill="#FFFFFF">Venus<tspan fill="#30BFB9">.ds</tspan></text>
+  <text x="590" y="262" text-anchor="middle" font-family="DM Sans, Arial, sans-serif" font-size="24" font-weight="500" fill="#C9D1D9">Consig 360 · by Teddy</text>
+</svg>
