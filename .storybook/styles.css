@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: 'solaris-icons';
-  src:  url("/fonts/solaris-icons.eot");
-  src:  url("/fonts/solaris-icons.eot#iefix") format('embedded-opentype'),
-    url("/fonts/solaris-icons.ttf") format('truetype'),
-    url("/fonts/solaris-icons.woff") format('woff'),
-    url("/fonts/solaris-icons.svg#solaris-icons") format('svg');
+  src:  url("../fonts/solaris-icons.eot");
+  src:  url("../fonts/solaris-icons.eot#iefix") format('embedded-opentype'),
+    url("../fonts/solaris-icons.ttf") format('truetype'),
+    url("../fonts/solaris-icons.woff") format('woff'),
+    url("../fonts/solaris-icons.svg#solaris-icons") format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
